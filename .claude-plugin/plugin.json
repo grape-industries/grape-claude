@@ -1,0 +1,12 @@
+{
+  "name": "grape",
+  "version": "1.0.0",
+  "description": "Search your own documents, code and PDFs from Claude Code: one ranked search across all your Grape projects.",
+  "author": {
+    "name": "Grape Industries",
+    "url": "https://grape-inc.in"
+  },
+  "homepage": "https://grape-inc.in",
+  "repository": "https://github.com/grape-industries/grape-claude",
+  "keywords": ["search", "documents", "pdf", "code", "knowledge base", "mcp"]
+}

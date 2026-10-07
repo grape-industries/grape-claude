@@ -1,0 +1,6 @@
+{
+  "grape": {
+    "type": "http",
+    "url": "https://grape-inc.in/mcp"
+  }
+}

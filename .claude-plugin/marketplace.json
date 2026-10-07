@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "grape-industries",
+  "description": "Grape plugins for Claude Code.",
+  "owner": {
+    "name": "Grape Industries",
+    "url": "https://grape-inc.in"
+  },
+  "plugins": [
+    {
+      "name": "grape",
+      "description": "Search your own documents, code and PDFs: one ranked search across all your Grape projects.",
+      "version": "1.0.0",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}
