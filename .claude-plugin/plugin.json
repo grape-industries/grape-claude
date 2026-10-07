@@ -8,5 +8,8 @@
   },
   "homepage": "https://grape-inc.in",
   "repository": "https://github.com/grape-industries/grape-claude",
+  "license": "MIT",
+  "icon": "./.claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://grape-inc.in/privacy",
   "keywords": ["search", "documents", "pdf", "code", "knowledge base", "mcp"]
 }
